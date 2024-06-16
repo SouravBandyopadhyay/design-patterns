@@ -28,8 +28,8 @@ export default defineConfig({
         items: [
           { text: 'Command Pattern', link: '/patterns/command-pattern' },
           { text: 'Factory Pattern', link: '/patterns/factory-pattern' },
+          { text: 'Flyweight Pattern', link: '/patterns/flyweight-pattern' },
         ],
-        // items: [],
       },
     ],
   },
