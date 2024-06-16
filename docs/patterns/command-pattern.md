@@ -8,10 +8,7 @@ The Command pattern in JavaScript is a behavioral design pattern that encapsulat
 - [Example Implementation](#example-implementation)
 - [Benefits of Using the Command Pattern](#benefits-of-using-the-command-pattern)
 - [Pros and Cons](#pros-and-cons)
-- [Comparison with Direct Function Calls](#comparison-with-direct-function-calls)
 - [Conclusion](#conclusion)
-- [Get Started](#get-started)
-- [Contribute](#contribute)
 
 ## Implementation Steps
 

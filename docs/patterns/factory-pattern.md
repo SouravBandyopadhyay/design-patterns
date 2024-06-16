@@ -11,10 +11,7 @@ The Factory Pattern allows us to create objects using factory functions, without
 - [Implementation](#implementation)
 - [Use Cases](#use-cases)
 - [Pros and Cons](#pros-and-cons)
-- [Comparison with Classes](#comparison-with-classes)
 - [Conclusion](#conclusion)
-- [Get Started](#get-started)
-- [Contribute](#contribute)
 
 ## Implementation
 
