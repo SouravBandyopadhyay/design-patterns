@@ -40,19 +40,3 @@ This guide covers three main categories of design patterns:
 3. **Behavioral Patterns**
    - **Observer**: Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
    - **Strategy**: Define a family of algorithms, encapsulate each one, and make them interchangeable. -->
-
-### Get Started
-
-Ready to dive into design patterns? Start with the overview and then explore each pattern in detail:
-
-- [Get Started](/patterns/overview)
-
-### Contribute
-
-Help us improve this guide! Contribute to this project on GitHub:
-
-- [View on GitHub](https://github.com/your-repo-url)
-
----
-
-This template provides a structured introduction to your Design Patterns in Vanilla JS guide, highlighting the importance of design patterns, categorizing them, and providing clear actions for readers to get started and contribute. Adjust the links and content as per your project's specifics.
