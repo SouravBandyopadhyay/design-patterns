@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: Design Patterns in Vanilla JS
-  text: Learn essential design patterns for effective JavaScript programming.
-  tagline: Explore the fundamental design patterns that enhance code structure and maintainability.
+  text: Learn essential design patterns.
+  tagline: Explore the fundamental design patterns.
 
   actions:
     - theme: brand
@@ -12,7 +12,7 @@ hero:
       link: /patterns/overview
     - theme: alt
       text: View on GitHub
-      link: https://github.com/your-repo-url
+      link: https://github.com/SouravBandyopadhyay/design-patterns
 ---
 
 # Welcome to the Design Patterns in Vanilla JS Guide
