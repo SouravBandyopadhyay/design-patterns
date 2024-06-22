@@ -11,7 +11,7 @@ This repository contains a collection of commonly used design patterns implement
 
 ## Introduction
 
-In software engineering, design patterns are reusable solutions to common problems in software design. They represent best practices evolved over time by experienced software developers. This repository aims to provide implementations of these patterns in JavaScript, along with explanations and use cases..
+In software engineering, design patterns are reusable solutions to common problems in software design. They represent best practices evolved over time by experienced software developers. This repository aims to provide implementations of these patterns in JavaScript, along with explanations and use cases.
 
 ## How to Contribute
 
