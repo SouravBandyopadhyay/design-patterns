@@ -6,7 +6,17 @@ export default defineConfig({
   base: "/",
   title: "Design Patterns in Vanilla JS",
   description: "Guide to Design Patterns in Vanilla JavaScript",
-
+  head: [
+    //Google AdSense
+    [
+      "script",
+      {
+        "data-ad-client": "ca-pub-3517052833771002", //[!code focus]
+        async: "",
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      },
+    ],
+  ],
   themeConfig: {
     search: {
       provider: "local",
