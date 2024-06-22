@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'en-US',
-  base: "/design-patterns/",
+  base: "/",
   title: 'Design Patterns in Vanilla JS',
   description: 'A comprehensive guide to design patterns in vanilla JavaScript',
 
