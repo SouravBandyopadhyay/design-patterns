@@ -6,6 +6,7 @@ export default defineConfig({
   base: "/",
   title: "Design Patterns in Vanilla JS",
   description: "Guide to Design Patterns in Vanilla JavaScript",
+  lastUpdated: true,
   head: [
     //Google AdSense
     [
