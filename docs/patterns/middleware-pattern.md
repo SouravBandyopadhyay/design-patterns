@@ -1,9 +1,21 @@
+
 # Middleware Patterns 
 In software design, managing complex interactions between components can be challenging. This is where patterns like the Mediator and Middleware come into play, offering structured solutions to streamline communication and enhance maintainability.
 
 ## Mediator Pattern
 
 The Mediator pattern introduces a central component (the Mediator) that facilitates communication between different components, rather than having them interact directly. This reduces dependencies and simplifies the system's architecture.
+
+## Table of Contents
+
+- [Implementation](#implementation)
+  - [Example: Chatroom](#example-chatroom)
+- [Pros and Cons](#pros-and-cons)
+  - [Pros](#pros)
+  - [Cons](#cons)
+- [Conclusion](#conclusion)
+
+## Implementation
 
 ### Example: Chatroom
 
@@ -42,6 +54,8 @@ user1.send("Hi there!");
 user2.send("Hey!");
 ```
 
+## Pros and Cons
+
 ### Pros
 
 - **Decoupling**: Components interact with each other through the Mediator, reducing direct dependencies and promoting loose coupling.
@@ -52,3 +66,7 @@ user2.send("Hey!");
 
 - **Complexity**: Introducing a Mediator can add complexity, especially if not designed carefully. It's essential to strike a balance between centralized control and maintaining simplicity.
 - **Single Point of Failure**: Since the Mediator manages communication, any issues with the Mediator can affect the entire system's functionality.
+
+## Conclusion
+
+The Mediator pattern is a powerful tool for managing interactions between components in a system. By centralizing communication through a Mediator, you can achieve better decoupling, centralized control, and enhanced maintainability. However, it's important to be mindful of the potential complexity and the risk of creating a single point of failure. When implemented thoughtfully, the Mediator pattern can significantly improve the structure and maintainability of your software.
