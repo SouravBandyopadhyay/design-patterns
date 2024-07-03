@@ -20,6 +20,12 @@ export default defineConfig({
   ],
   cleanUrls: true,
   themeConfig: {
+    socialLinks: [
+      {
+        icon: "github",
+        link: "https://github.com/SouravBandyopadhyay/design-patterns",
+      },
+    ],
     search: {
       provider: "local",
     },
@@ -43,8 +49,13 @@ export default defineConfig({
           { text: "Factory Pattern", link: "/patterns/factory-pattern" },
           { text: "Flyweight Pattern", link: "/patterns/flyweight-pattern" },
           { text: "Middleware Pattern", link: "/patterns/middleware-pattern" },
+          { text: "Observer Pattern", link: "/patterns/observer-pattern" },
         ],
       },
     ],
+    footer: {
+      message: 'Made By Sourav Bandyopadhyay',
+      // copyright: 'Copyright © 2019-present Evan You'
+    }
   },
 });
